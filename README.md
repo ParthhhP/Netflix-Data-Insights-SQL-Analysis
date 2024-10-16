@@ -9,5 +9,5 @@ Important goals consist of:
 - By contrasting geographical preferences and binge-watching tendencies, one might gain insight into user behavior.
 - extracting and visualizing data insights using SQL queries, which lays the groundwork for more thorough research and business suggestions for audience targeting and content curation.
 
-# Database and Tools used
+# Database and Tools
 The main tools for developing and managing the Netflix dataset, running SQL queries, and carrying out the analysis in this project will be pgAdmin 4 and PostgreSQL.
