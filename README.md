@@ -1,4 +1,5 @@
 # Netflix-Data-Insights-SQL-Analysis
+![Netflix_logo svg](https://github.com/user-attachments/assets/deeeb250-18e5-4300-820d-6661c7f9a647)
 
 In order to gain important insights into user viewing patterns, content trends, and genre popularity, this project will use SQL to analyze Netflix data. The study will investigate how audience preferences are influenced by material type, release year, and genre by querying a dataset that contains details on Netflix's vast collection, viewer ratings, and content categories.
 
