@@ -21,7 +21,7 @@ The main tools for developing and managing the Netflix dataset, running SQL quer
 6. Look for material added within the previous five years.
 7. Locate every film and television program directed by "Rajiv Chilaka"!
 8. Enumerate all television programs with more than five seasons.
-9. 9. Determine how many pieces of content there are in each genre.
+9. Determine how many pieces of content there are in each genre.
 10. Discover the average amount of Netflix content releases in India each year. Represent the top five years with the highest average content release.
 11. Provide a list of all documentaries.
 12. Locate every piece of material without a director
